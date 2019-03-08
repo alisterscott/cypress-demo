@@ -1,0 +1,22 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "A cypress.io demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisterscott/cypress-demo.git"
+  },
+  "author": "alisterscott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisterscott/cypress-demo/issues"
+  },
+  "homepage": "https://github.com/alisterscott/cypress-demo#readme",
+  "dependencies": {
+    "cypress": "^3.1.5"
+  }
+}
