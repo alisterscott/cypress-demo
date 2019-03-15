@@ -4,7 +4,8 @@
   "description": "A cypress.io demo project",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/cypress run"
+    "test": "./node_modules/.bin/cypress run",
+    "cypress": "./node_modules/.bin/cypress open"
   },
   "repository": {
     "type": "git",
