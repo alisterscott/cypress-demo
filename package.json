@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/alisterscott/cypress-demo#readme",
   "dependencies": {
-    "cypress": "^3.1.5"
+    "cypress": "^3.3.2"
   }
 }
